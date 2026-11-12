@@ -1,6 +1,6 @@
-# Devanshia Fleet Platform
+# Fleet Platform
 
-A refreshed 5-unit full-stack project rebranded as Devanshia, combining modern fleet operations, cleaner UI design, and a stronger cloud-ready environment setup for a premium vehicle rental and management experience.
+Full Stack Development project 
 
 ---
 
